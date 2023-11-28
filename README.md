@@ -7,13 +7,15 @@ En esta práctica se ha pedido realizar varios ejercicios de scripting en Unity 
 
 1. Utiliza la escena con el zombie y activar la reproducción de alguno de los sonidos incluidos en la carpeta adjunta cuando alcanza a una araña.
 
-![Ejercicio1](resources/VideoZombie.mp4)
+https://github.com/DiegoHerrera2/ii-p7/assets/3327619/1631008c-7d2b-4607-98d9-880b5850f21d
+
+
 
 ---
 
 2. Crea una escena en la que estés en un espacio abierto en el que habrá una pantalla central con altavoces que al pulsar la tecla R reproduzcan el sonido que se obtenga por el micrófono del dispositivo.
 
-![Ejercicio1](resources/VideoMicrofonoCamara.mp4)
+https://github.com/DiegoHerrera2/ii-p7/assets/3327619/95e1665f-e189-4104-9d44-949b21ba8830
 
 Script Microphone: [Recorder.cs](scripts/Recorder.cs)
 
@@ -21,7 +23,7 @@ Script Microphone: [Recorder.cs](scripts/Recorder.cs)
 
 3. Utilizar lo que capta la cámara para reproducirlo en una pantalla ubicada en la escena anterior.
 
-![Ejercicio1](resources/VideoMicrofonoCamara.mp4)
+https://github.com/DiegoHerrera2/ii-p7/assets/3327619/95e1665f-e189-4104-9d44-949b21ba8830
 
 Script CameraRecorder: [CameraRecorder.cs](scripts/CameraRecorder.cs)
 
